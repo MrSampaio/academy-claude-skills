@@ -1,0 +1,19 @@
+{
+  "name": "academy-skills",
+  "owner": {
+    "name": "João Carlos Lima"
+  },
+  "metadata": {
+    "description": "Skills do Claude para alunos da Apple Developer Academy"
+  },
+  "plugins": [
+    {
+      "name": "feedback-academy",
+      "source": "./plugins/feedback-academy",
+      "description": "Revisão de qualidade de código para projetos Swift/SwiftUI, com feedback didático em PDF.",
+      "version": "1.0.0",
+      "category": "code-review",
+      "keywords": ["swift", "swiftui", "code-review"]
+    }
+  ]
+}

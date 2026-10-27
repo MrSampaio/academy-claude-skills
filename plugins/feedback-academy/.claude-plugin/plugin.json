@@ -1,0 +1,11 @@
+{
+  "name": "feedback-academy",
+  "version": "1.0.0",
+  "description": "Revisão de qualidade de código para projetos Swift/SwiftUI da Apple Developer Academy, com feedback didático em PDF.",
+  "author": {
+    "name": "João Carlos Lima"
+  },
+  "repository": "https://github.com/joaocarloslima/academy-claude-skills",
+  "license": "MIT",
+  "keywords": ["swift", "swiftui", "code-review", "feedback", "apple-developer-academy"]
+}
